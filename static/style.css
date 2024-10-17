@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f4f4f4; */
+    background-color:black; 
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+
+    margin-top: 5rem;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px red;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 200px;
+}
+button{
+    width:200px;
+   padding:8px;
+   background-color: yellow;
+   border-radius: 10px;
+   font-weight: bold;
+}
+button:hover{
+    background-color:lightgreen;
+}
+h1{
+    color:white;
+    box-shadow: 0px 0px 10px red;
+    
+}
+form{
+
+}
